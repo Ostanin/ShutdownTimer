@@ -37,22 +37,24 @@ msgstr "Таймер выключения"
 
 #: extension.js:114
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: prefs.js:34
 msgid "Maximum timer value (in minutes)"
-msgstr ""
+msgstr "Максимальное значение таймера (в минутах)"
 
 #: prefs.js:51
 #, javascript-format
 msgid "Slider position (in % from 0 to 100)"
-msgstr ""
+msgstr "Положение ползунка (в % от 0 до 100)"
 
 #: prefs.js:70
 msgid ""
 "Root mode (uses 'pkexec shutdown' command,\n"
 "no interruption of timer, but needs root password)"
 msgstr ""
+"Режим суперпользователя (используйте команду 'pkexec shutdown',\n"
+"запрещает вмешательство в работу таймера, но нужно использовать пароль суперпользователя)"
 
 #: timer.js:44 timer.js:64
 msgid "min till shutdown"
